@@ -1,7 +1,7 @@
 import React,{useState,useEffect} from 'react';
 import './App.css';
 import Weather from './components/Weather';
-import {HashRouter as Router , Route , Switch} from 'react-router-dom';
+import {HashRouter ,   Route , Switch} from 'react-router-dom';
 import Favorites from './components/Favorites'
 
 const API_key = "I1gKf7FcF8vPxXNbNDNSlBK6mvmSSjWC"
@@ -84,7 +84,7 @@ const addFavorites = () => {
 
     <div className="App"> 
 
-<Router>
+<HashRouter>
          <Switch>
 
          <Route exact path="/" render = {props => (
@@ -97,7 +97,7 @@ const addFavorites = () => {
         
         </Switch> 
 
-     </Router>  
+     </HashRouter>  
   
     </div>
   );
