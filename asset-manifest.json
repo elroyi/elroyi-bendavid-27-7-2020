@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/elroyi-bendavid-27-7-2020/static/css/main.bcf12e56.chunk.css",
-    "main.js": "/elroyi-bendavid-27-7-2020/static/js/main.fd206849.chunk.js",
-    "main.js.map": "/elroyi-bendavid-27-7-2020/static/js/main.fd206849.chunk.js.map",
-    "runtime-main.js": "/elroyi-bendavid-27-7-2020/static/js/runtime-main.1b209260.js",
-    "runtime-main.js.map": "/elroyi-bendavid-27-7-2020/static/js/runtime-main.1b209260.js.map",
-    "static/js/2.16b2ddb1.chunk.js": "/elroyi-bendavid-27-7-2020/static/js/2.16b2ddb1.chunk.js",
-    "static/js/2.16b2ddb1.chunk.js.map": "/elroyi-bendavid-27-7-2020/static/js/2.16b2ddb1.chunk.js.map",
-    "index.html": "/elroyi-bendavid-27-7-2020/index.html",
-    "precache-manifest.aef1b5f323d1cf22f097269bca915bad.js": "/elroyi-bendavid-27-7-2020/precache-manifest.aef1b5f323d1cf22f097269bca915bad.js",
-    "service-worker.js": "/elroyi-bendavid-27-7-2020/service-worker.js",
-    "static/css/main.bcf12e56.chunk.css.map": "/elroyi-bendavid-27-7-2020/static/css/main.bcf12e56.chunk.css.map",
-    "static/js/2.16b2ddb1.chunk.js.LICENSE.txt": "/elroyi-bendavid-27-7-2020/static/js/2.16b2ddb1.chunk.js.LICENSE.txt"
+    "main.css": "/elroyi-bendavid-27-7-2020.git/static/css/main.bcf12e56.chunk.css",
+    "main.js": "/elroyi-bendavid-27-7-2020.git/static/js/main.d3f2d393.chunk.js",
+    "main.js.map": "/elroyi-bendavid-27-7-2020.git/static/js/main.d3f2d393.chunk.js.map",
+    "runtime-main.js": "/elroyi-bendavid-27-7-2020.git/static/js/runtime-main.7d72e1f7.js",
+    "runtime-main.js.map": "/elroyi-bendavid-27-7-2020.git/static/js/runtime-main.7d72e1f7.js.map",
+    "static/js/2.2d2946ab.chunk.js": "/elroyi-bendavid-27-7-2020.git/static/js/2.2d2946ab.chunk.js",
+    "static/js/2.2d2946ab.chunk.js.map": "/elroyi-bendavid-27-7-2020.git/static/js/2.2d2946ab.chunk.js.map",
+    "index.html": "/elroyi-bendavid-27-7-2020.git/index.html",
+    "precache-manifest.fd100ae03731802ebee9cd52d94061e9.js": "/elroyi-bendavid-27-7-2020.git/precache-manifest.fd100ae03731802ebee9cd52d94061e9.js",
+    "service-worker.js": "/elroyi-bendavid-27-7-2020.git/service-worker.js",
+    "static/css/main.bcf12e56.chunk.css.map": "/elroyi-bendavid-27-7-2020.git/static/css/main.bcf12e56.chunk.css.map",
+    "static/js/2.2d2946ab.chunk.js.LICENSE.txt": "/elroyi-bendavid-27-7-2020.git/static/js/2.2d2946ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b209260.js",
-    "static/js/2.16b2ddb1.chunk.js",
+    "static/js/runtime-main.7d72e1f7.js",
+    "static/js/2.2d2946ab.chunk.js",
     "static/css/main.bcf12e56.chunk.css",
-    "static/js/main.fd206849.chunk.js"
+    "static/js/main.d3f2d393.chunk.js"
   ]
 }
