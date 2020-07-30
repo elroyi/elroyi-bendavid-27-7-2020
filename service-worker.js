@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/elroyi-bendavid-27-7-2020.git/precache-manifest.fd100ae03731802ebee9cd52d94061e9.js"
+  "/elroyi-bendavid-27-7-2020.git/precache-manifest.05a501b1a0831d6a12b1eb883ae6fcb9.js"
 );
 
 self.addEventListener('message', (event) => {

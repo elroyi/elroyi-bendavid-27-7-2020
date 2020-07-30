@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/elroyi-bendavid-27-7-2020.git/static/css/main.bcf12e56.chunk.css",
-    "main.js": "/elroyi-bendavid-27-7-2020.git/static/js/main.d3f2d393.chunk.js",
-    "main.js.map": "/elroyi-bendavid-27-7-2020.git/static/js/main.d3f2d393.chunk.js.map",
+    "main.js": "/elroyi-bendavid-27-7-2020.git/static/js/main.77051ce6.chunk.js",
+    "main.js.map": "/elroyi-bendavid-27-7-2020.git/static/js/main.77051ce6.chunk.js.map",
     "runtime-main.js": "/elroyi-bendavid-27-7-2020.git/static/js/runtime-main.7d72e1f7.js",
     "runtime-main.js.map": "/elroyi-bendavid-27-7-2020.git/static/js/runtime-main.7d72e1f7.js.map",
     "static/js/2.2d2946ab.chunk.js": "/elroyi-bendavid-27-7-2020.git/static/js/2.2d2946ab.chunk.js",
     "static/js/2.2d2946ab.chunk.js.map": "/elroyi-bendavid-27-7-2020.git/static/js/2.2d2946ab.chunk.js.map",
     "index.html": "/elroyi-bendavid-27-7-2020.git/index.html",
-    "precache-manifest.fd100ae03731802ebee9cd52d94061e9.js": "/elroyi-bendavid-27-7-2020.git/precache-manifest.fd100ae03731802ebee9cd52d94061e9.js",
+    "precache-manifest.05a501b1a0831d6a12b1eb883ae6fcb9.js": "/elroyi-bendavid-27-7-2020.git/precache-manifest.05a501b1a0831d6a12b1eb883ae6fcb9.js",
     "service-worker.js": "/elroyi-bendavid-27-7-2020.git/service-worker.js",
     "static/css/main.bcf12e56.chunk.css.map": "/elroyi-bendavid-27-7-2020.git/static/css/main.bcf12e56.chunk.css.map",
     "static/js/2.2d2946ab.chunk.js.LICENSE.txt": "/elroyi-bendavid-27-7-2020.git/static/js/2.2d2946ab.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7d72e1f7.js",
     "static/js/2.2d2946ab.chunk.js",
     "static/css/main.bcf12e56.chunk.css",
-    "static/js/main.d3f2d393.chunk.js"
+    "static/js/main.77051ce6.chunk.js"
   ]
 }
