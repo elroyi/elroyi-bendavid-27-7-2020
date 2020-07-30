@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/elroyi-bendavid-27-7-2020.git/precache-manifest.05a501b1a0831d6a12b1eb883ae6fcb9.js"
+  "/http://elroyi-bendavid-27-7-2020.gitprecache-manifest.6fb14ab3dce1180d16b3c613f8d184cf.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/elroyi-bendavid-27-7-2020.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/http://elroyi-bendavid-27-7-2020.gitindex.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
